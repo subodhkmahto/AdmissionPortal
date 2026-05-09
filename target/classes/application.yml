@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: REST_API_User
+
+  # Production-configured MySQL settings based on your request
+  datasource:
+    url: jdbc:mysql://localhost:3306/student_db?useSSL=false&serverTimezone=UTC
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  # Hibernate configurations
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+# Server port configuring
+server:
+  port: 8888
+
+logging:
+  level:
+    org.springframework.modulith: DEBUG
