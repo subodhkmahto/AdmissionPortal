@@ -160,7 +160,7 @@ Server starts at: `http://localhost:8080`
 ## 👨‍💻 Author
 
 **Subodh Kumar**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/subodh-kumar-53176924b/)
 - 🐙 [GitHub](https://github.com/subodhkmahto)
 
 ---
